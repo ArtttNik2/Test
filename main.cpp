@@ -9,7 +9,7 @@ int main() {
     std::string name;
     std::cin >> name;
 
-    if (name == "1")
+    if (name == "Artyom")
         std::cout << "Fail\n";
     else
         std::cout << "Passed\n";
